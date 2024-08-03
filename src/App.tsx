@@ -22,7 +22,7 @@ export default function Page() {
       "But :*(",
       "I am going to die",
       "Yep i'm dead",
-      "ok ur talking to ajay's ghost",
+      "ok u r talking to ajay's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
