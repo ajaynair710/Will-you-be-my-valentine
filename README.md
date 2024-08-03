@@ -1,6 +1,4 @@
-# Will you be my valentine?
-
-Demo : https://saurabhnemade.github.io/will-you-be-my-valentine/
+# Will you be my Cutie Pookie?
 
 This is a fun project for valentines day to bring smile on face of your special person!!
 
@@ -24,4 +22,4 @@ pnpm run dev
 pnpm run deploy
 ```
 
-Made with ❤️ in Berlin!
+Made with ❤️ in Venice!
